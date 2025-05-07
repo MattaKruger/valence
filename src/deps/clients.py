@@ -4,7 +4,7 @@ import spotipy
 from qbittorrent import Client
 from spotipy.oauth2 import SpotifyClientCredentials
 
-from config import Config
+from src.config import Config
 
 config = Config()
 

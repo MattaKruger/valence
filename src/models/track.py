@@ -2,6 +2,7 @@ from datetime import datetime
 from typing import Any, Dict, List, Optional
 
 from sqlmodel import JSON, Column, Field, Relationship, SQLModel
+from sqlalchemy.orm import RelationshipProperty
 
 from src.models.audio_features import AudioFeature
 
@@ -55,9 +56,20 @@ class Track(TrackBase, table=True):
     playlist_tracks: List["TrackPlayList"] = Relationship(back_populates="track")
 
     audio_feature: Optional["AudioFeature"] = Relationship(back_populates="track")
+    waveform: Optional["WaveForm"] = Relationship(back_populates="track")
 
     file_path: Optional[str] = Field(default=None)
     features: Optional[dict] = Field(default=None, sa_column=Column(JSON))
+    
+    # Feature comparison relationships
+    track_as_a: List["FeatureComparison"] = Relationship(
+        back_populates="track_a", 
+        sa_relationship=RelationshipProperty("FeatureComparison", foreign_keys="[FeatureComparison.track_a_id]")
+    )
+    track_as_b: List["FeatureComparison"] = Relationship(
+        back_populates="track_b", 
+        sa_relationship=RelationshipProperty("FeatureComparison", foreign_keys="[FeatureComparison.track_b_id]")
+    )
 
     @property
     def tags(self) -> List[Tag]:
@@ -134,8 +146,14 @@ class FeatureComparison(SQLModel, table=True):
     comparison_method: str = Field(default="euclidean")
     created_at: datetime = Field(default_factory=datetime.utcnow)
 
-    track_a: Track = Relationship(foreign_keys=[track_a_id])
-    track_b: Track = Relationship(foreign_keys=[track_b_id])
+    track_a: "Track" = Relationship(
+        back_populates="track_as_a", 
+        sa_relationship=RelationshipProperty("Track", foreign_keys=[track_a_id])
+    )
+    track_b: "Track" = Relationship(
+        back_populates="track_as_b", 
+        sa_relationship=RelationshipProperty("Track", foreign_keys=[track_b_id])
+    )
 
 
 class TrackOut(TrackBase, table=False):

@@ -1,8 +1,11 @@
+
 from datetime import datetime
-from typing import Any, Dict, Optional
+from typing import TYPE_CHECKING, Any, Dict, Optional
 
 from sqlmodel import JSON, Column, Field, Index, Relationship, SQLModel
-from track import Track
+
+if TYPE_CHECKING:
+    from src.models.track import Track
 
 
 class AudioFeatureBase(SQLModel, table=False):

@@ -20,13 +20,20 @@ from httpx import AsyncClient
 from liblistenbrainz import ListenBrainz
 from sqlmodel import Session, SQLModel, select
 
-from audio_features import AudioFeatureExtractor
-from config import Config
-from db.engine import engine
-from db.session import get_session
-from deps.clients import get_httpx_client, get_listenbrainz_client
-from models.track import AudioFeature, Genre, PlayList, Track, TrackPlayList, TrackTag
-from visualization_router import router as visualization_router
+from src.audio_features import AudioFeatureExtractor
+from src.config import Config
+from src.db.engine import engine
+from src.db.session import get_session
+from src.deps.clients import get_httpx_client, get_listenbrainz_client
+from src.models.track import (
+    AudioFeature,
+    Genre,
+    PlayList,
+    Track,
+    TrackPlayList,
+    TrackTag,
+)
+from src.visualization_router import router as visualization_router
 
 load_dotenv()
 
