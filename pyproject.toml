@@ -1,0 +1,29 @@
+[project]
+name = "valence"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "audioflux>=0.1.9",
+    "beanie>=1.29.0",
+    "fastapi-cli>=0.0.7",
+    "fastapi[standard]>=0.115.12",
+    "httpx>=0.28.1",
+    "liblistenbrainz>=0.5.6",
+    "librosa>=0.11.0",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.5",
+    "pandas>=2.2.3",
+    "plotly>=6.0.1",
+    "pydantic-settings>=2.9.1",
+    "python-dotenv>=1.1.0",
+    "python-qbittorrent>=0.4.3",
+    "spotipy>=2.25.1",
+    "sqlmodel>=0.0.24",
+    "unidecode>=1.4.0",
+]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"

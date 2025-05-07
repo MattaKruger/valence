@@ -1,0 +1,881 @@
+[
+    {
+        "inserted_at": 1746217680,
+        "listened_at": 1746217490,
+        "recording_msid": "ab79af67-d257-4973-a2d5-661ff1276275",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 194,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "ab79af67-d257-4973-a2d5-661ff1276275",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Wiz Khalifa",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "f5dfa020-ad69-41cd-b3d4-fd7af0414e94"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Wiz Khalifa",
+                        "artist_mbid": "f5dfa020-ad69-41cd-b3d4-fd7af0414e94",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 36014386777,
+                "caa_release_mbid": "c3c896c3-6e3e-493c-9837-d367cfce43fc",
+                "recording_mbid": "3a0fece7-da0b-4331-842f-642ddfd0fe91",
+                "recording_name": "Smoke Chambers",
+                "release_mbid": "c3c896c3-6e3e-493c-9837-d367cfce43fc"
+            },
+            "track_name": "Smoke chambers"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746217490,
+        "listened_at": 1746217479,
+        "recording_msid": "792c4a23-8d2b-4501-99e9-60aa302f9daa",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 192,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "792c4a23-8d2b-4501-99e9-60aa302f9daa",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Gary Numan",
+            "track_name": "Zero Bars (Mr. Smith)"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746217479,
+        "listened_at": 1746217468,
+        "recording_msid": "3348b71a-1c15-4b91-a143-02a163f832cc",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 265,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "3348b71a-1c15-4b91-a143-02a163f832cc",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Mark Broom",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "94fe7c3b-0bb0-47a9-b0cd-6b46a8b1c7b2"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Mark Broom",
+                        "artist_mbid": "94fe7c3b-0bb0-47a9-b0cd-6b46a8b1c7b2",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 39863843451,
+                "caa_release_mbid": "31e3ec49-bdb4-4f57-92cf-312dc830fee0",
+                "recording_mbid": "d99b4f08-6651-4cb4-96d4-ba2c24b58c69",
+                "recording_name": "Tribe Vibes",
+                "release_mbid": "31e3ec49-bdb4-4f57-92cf-312dc830fee0"
+            },
+            "track_name": "Tribe Vibes (Original Mix)"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746217468,
+        "listened_at": 1746217347,
+        "recording_msid": "0106ab7f-9f60-43f3-925c-518a00daa46d",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 314,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "0106ab7f-9f60-43f3-925c-518a00daa46d",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "William Arist",
+            "track_name": "Mars Attacks"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746217347,
+        "listened_at": 1746217022,
+        "recording_msid": "709a10e4-21cd-4224-be81-d33093381193",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 320,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "709a10e4-21cd-4224-be81-d33093381193",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Indivision, Echo Inada",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "a7fad5aa-9c24-48ac-8fe6-6641120cd0e5",
+                    "2a20734b-4ee9-496b-9f34-3dcf6fa359af"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Indivision",
+                        "artist_mbid": "a7fad5aa-9c24-48ac-8fe6-6641120cd0e5",
+                        "join_phrase": " & "
+                    },
+                    {
+                        "artist_credit_name": "Echo Inada",
+                        "artist_mbid": "2a20734b-4ee9-496b-9f34-3dcf6fa359af",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 34879835033,
+                "caa_release_mbid": "357afdda-2923-426c-8316-5fbd00dce6b3",
+                "recording_mbid": "e7dd9fbb-76f3-4119-8b69-9bcfd9421b07",
+                "recording_name": "Around the World",
+                "release_mbid": "2b14ec73-4c08-4b27-a3f0-8b1d0f3b8d9b"
+            },
+            "track_name": "Around the World"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746217022,
+        "listened_at": 1746216772,
+        "recording_msid": "65978a03-ea80-4eb4-8b3b-1d2f0494067f",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 248,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "65978a03-ea80-4eb4-8b3b-1d2f0494067f",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Kendrick Lamar",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "381086ea-f511-4aba-bdf9-71c753dc5077"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Kendrick Lamar",
+                        "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 16465758904,
+                "caa_release_mbid": "7c59d15d-ef1a-48f6-9af6-51a1add92780",
+                "recording_mbid": "9488e575-4c2c-4a30-a064-14b02acbe1ac",
+                "recording_name": "DUCKWORTH.",
+                "release_mbid": "81ad6e82-8e70-4805-8866-42e246c6f68c"
+            },
+            "track_name": "DUCKWORTH."
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746216772,
+        "listened_at": 1746216761,
+        "recording_msid": "355e5652-596e-4a42-a553-e2a03b20bbe7",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 292,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "355e5652-596e-4a42-a553-e2a03b20bbe7",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Kendrick Lamar",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "381086ea-f511-4aba-bdf9-71c753dc5077"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Kendrick Lamar",
+                        "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 40040680528,
+                "caa_release_mbid": "7d2294a9-fde9-4496-8ded-18e7ea8b7e29",
+                "recording_mbid": "8b035ce9-f46a-4507-b22d-b1350cd97bfc",
+                "recording_name": "For Sale? (interlude)",
+                "release_mbid": "88ab7a5c-fd27-421e-85f0-f107ed86a43f"
+            },
+            "track_name": "For Sale? (Interlude)"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746216761,
+        "listened_at": 1746216751,
+        "recording_msid": "b61086e8-5ff7-48f6-8305-af7beb957509",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 279,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "b61086e8-5ff7-48f6-8305-af7beb957509",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Kendrick Lamar",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "381086ea-f511-4aba-bdf9-71c753dc5077"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Kendrick Lamar",
+                        "artist_mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 22057643526,
+                "caa_release_mbid": "d5bcadc9-d6b2-4119-bf50-af1b9dca834c",
+                "recording_mbid": "583e874c-182f-4042-89ef-f718cc720238",
+                "recording_name": "Black Boy Fly",
+                "release_mbid": "e1d99364-1ad9-4f4d-9505-2242eff10a44"
+            },
+            "track_name": "Black Boy Fly (Bonus Track)"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746211640,
+        "listened_at": 1746211562,
+        "recording_msid": "600a6e41-a62b-4781-a767-12f5f7837c44",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 76,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "600a6e41-a62b-4781-a767-12f5f7837c44",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Charizma, Peanut Butter Wolf",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "89550701-e0ee-4659-a5c7-a312e3242e5c"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Charizma & Peanut Butter Wolf",
+                        "artist_mbid": "89550701-e0ee-4659-a5c7-a312e3242e5c",
+                        "join_phrase": ""
+                    }
+                ],
+                "recording_mbid": "416e361b-1255-49a3-8d27-34a64dda3cb2",
+                "recording_name": "Move",
+                "release_mbid": "8a75b87b-9dca-465a-83c1-9d005bb60571"
+            },
+            "track_name": "Move"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746211562,
+        "listened_at": 1746211350,
+        "recording_msid": "4d3079f7-5c9b-4233-a33f-8fee94369f81",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 211,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "4d3079f7-5c9b-4233-a33f-8fee94369f81",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Melodownz",
+            "track_name": "The Anthem (Intro) [feat. Bailey Wiley]"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746211350,
+        "listened_at": 1746211027,
+        "recording_msid": "3ffbf66f-bb9c-4eba-b6d3-5a53b2d46806",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 320,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "3ffbf66f-bb9c-4eba-b6d3-5a53b2d46806",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Paul Hauck, IGLO",
+            "track_name": "Innocent Leader (TWR72 Remix)"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746211027,
+        "listened_at": 1746210807,
+        "recording_msid": "b93982df-600f-46ab-88e3-bc2b40d2783e",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 219,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "b93982df-600f-46ab-88e3-bc2b40d2783e",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "A Tribe Called Quest",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "9689aa5a-4471-4fb4-9721-07cecda0fa9f"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "A Tribe Called Quest",
+                        "artist_mbid": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 8559758886,
+                "caa_release_mbid": "63747b49-c817-4688-a3c3-c6b534672f3e",
+                "recording_mbid": "4bd3726c-c926-4637-b3b2-b5a5bf5417bf",
+                "recording_name": "Check the Rhime",
+                "release_mbid": "63747b49-c817-4688-a3c3-c6b534672f3e"
+            },
+            "track_name": "Check the Rhime"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746210807,
+        "listened_at": 1746210360,
+        "recording_msid": "c674a60c-a0f9-4160-8299-650c5ce04489",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 446,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "c674a60c-a0f9-4160-8299-650c5ce04489",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Roy Davis Jr., Preven Everett",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "a58a5d1f-9467-4df4-a157-eabb24d6bf28",
+                    "7b42e4cf-650b-4fe0-bc7d-c95e31247729"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Roy Davis Jr.",
+                        "artist_mbid": "a58a5d1f-9467-4df4-a157-eabb24d6bf28",
+                        "join_phrase": " & "
+                    },
+                    {
+                        "artist_credit_name": "Peven Everett",
+                        "artist_mbid": "7b42e4cf-650b-4fe0-bc7d-c95e31247729",
+                        "join_phrase": ""
+                    }
+                ],
+                "recording_mbid": "39add499-9e1c-4972-b0aa-5d242c18b6be",
+                "recording_name": "Gabriel (live Garage mix)",
+                "release_mbid": "f40afe34-1040-4c2b-91d5-8f75fe37ec06"
+            },
+            "track_name": "Gabriel (Live Garage Mix)"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746210360,
+        "listened_at": 1746209744,
+        "recording_msid": "6784c116-173c-4304-b21c-4dc2cc3da432",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 614,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "6784c116-173c-4304-b21c-4dc2cc3da432",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "DJ Skull",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "84669371-1d7f-4d4c-8e33-743b203e9056"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "DJ Skull",
+                        "artist_mbid": "84669371-1d7f-4d4c-8e33-743b203e9056",
+                        "join_phrase": ""
+                    }
+                ],
+                "recording_mbid": "3763aafa-b9bf-4e7f-a933-9d282c797371",
+                "recording_name": "Acid Wiss \"L\"",
+                "release_mbid": "d7258bac-81be-497e-9f7b-837e12eecffa"
+            },
+            "track_name": "Acid Wiss L"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746209744,
+        "listened_at": 1746209604,
+        "recording_msid": "4a03bd96-f151-4714-914a-6d0ad008dbfb",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 139,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "4a03bd96-f151-4714-914a-6d0ad008dbfb",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Population One, Parrish Smith, Flatner / Ingram Project",
+            "track_name": "Bonus Beat ; Da Comin' (Jay Denham RMX) ; 1.0 / 8.0 Afrika Genocide (mixed)"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746209604,
+        "listened_at": 1746209344,
+        "recording_msid": "ef253890-8eb6-49d5-9312-ea06672c331b",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 259,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "ef253890-8eb6-49d5-9312-ea06672c331b",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Pino Peña",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "6aa14835-f8cc-4880-a4dd-ff47af6cbef0"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Pino Peña",
+                        "artist_mbid": "6aa14835-f8cc-4880-a4dd-ff47af6cbef0",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 35060221910,
+                "caa_release_mbid": "5e2d4dff-79b9-4249-b4f5-30b3f2b632d8",
+                "recording_mbid": "879660b5-fdbd-411e-8a30-3316978d70fd",
+                "recording_name": "Nacho",
+                "release_mbid": "5e2d4dff-79b9-4249-b4f5-30b3f2b632d8"
+            },
+            "track_name": "Mogli (Zisko Remix)"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746209344,
+        "listened_at": 1746209053,
+        "recording_msid": "81c961d2-d848-4bab-8c4f-639dd8a2123a",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 289,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "81c961d2-d848-4bab-8c4f-639dd8a2123a",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Kanye West, Talib Kweli, common",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "164f0d73-1234-4e2c-8743-d77bf2191051"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Kanye West",
+                        "artist_mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 34245157344,
+                "caa_release_mbid": "99a96bf6-8166-3b7c-97ed-ea525f13ec65",
+                "recording_mbid": "d8d9f578-0470-43d5-8658-ff2031a7fa38",
+                "recording_name": "Get ’Em High",
+                "release_mbid": "4bc94e83-f3a5-476e-90f0-c0f741014447"
+            },
+            "track_name": "Get Em High"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746209053,
+        "listened_at": 1746208880,
+        "recording_msid": "5cc49aaa-5f6d-407c-a559-fa4b3b1c0541",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 171,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "5cc49aaa-5f6d-407c-a559-fa4b3b1c0541",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Velvet Condom",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "e1479f41-5005-40ec-8d84-77638c493a7e"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Velvet Condom",
+                        "artist_mbid": "e1479f41-5005-40ec-8d84-77638c493a7e",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 28890498486,
+                "caa_release_mbid": "f9cd2967-7a03-4c95-a966-1bc5fe5b4806",
+                "recording_mbid": "80934fd5-2f6f-46c0-a41e-390115689bf7",
+                "recording_name": "Samt und Stein",
+                "release_mbid": "f9cd2967-7a03-4c95-a966-1bc5fe5b4806"
+            },
+            "track_name": "Samt Und Stein"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746208880,
+        "listened_at": 1746208552,
+        "recording_msid": "098b334f-514c-41bc-85f4-89bd8a42c735",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 327,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "098b334f-514c-41bc-85f4-89bd8a42c735",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Decoder",
+            "track_name": "Identity"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746208552,
+        "listened_at": 1746208259,
+        "recording_msid": "9603b2fc-d9b3-4d15-b302-14a22e4440c2",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 291,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "9603b2fc-d9b3-4d15-b302-14a22e4440c2",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Aqualeo",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "aca4777c-7956-4d2f-9ebc-0df7da69ca06"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Aqualeo",
+                        "artist_mbid": "aca4777c-7956-4d2f-9ebc-0df7da69ca06",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 15143025499,
+                "caa_release_mbid": "eee698f3-46d3-4065-8418-c02d28ac1e5a",
+                "recording_mbid": "f9ce7e50-e931-44ee-906b-9065b74f7e3c",
+                "recording_name": "Now and Laters",
+                "release_mbid": "eee698f3-46d3-4065-8418-c02d28ac1e5a"
+            },
+            "track_name": "Now and Laters"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746208259,
+        "listened_at": 1746208043,
+        "recording_msid": "3de8e998-e6bb-4011-ad34-1f42d272d02a",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 214,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "3de8e998-e6bb-4011-ad34-1f42d272d02a",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "André Hazes",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "774b509e-15ba-4932-aae4-ec7371e46c27"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "André Hazes",
+                        "artist_mbid": "774b509e-15ba-4932-aae4-ec7371e46c27",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 7101343960,
+                "caa_release_mbid": "75c5da9e-4fd3-4c4b-9f72-ff03439c60e4",
+                "recording_mbid": "06b63127-474c-4499-b0b7-bbcae21d2bcd",
+                "recording_name": "’t Rode licht",
+                "release_mbid": "75c5da9e-4fd3-4c4b-9f72-ff03439c60e4"
+            },
+            "track_name": "'t Rode Licht"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746208044,
+        "listened_at": 1746207720,
+        "recording_msid": "71835a37-152b-4b73-899e-8b92abc61c34",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 322,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "71835a37-152b-4b73-899e-8b92abc61c34",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Forum",
+            "track_name": "Stalk"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746207739,
+        "listened_at": 1746207376,
+        "recording_msid": "f4794e93-73ef-46ad-9ffe-c61b91db3c01",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 342,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "f4794e93-73ef-46ad-9ffe-c61b91db3c01",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Henry Cullen, DJ Geraldine, Rob Stow",
+            "track_name": "Sync (Original Mix)"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746207376,
+        "listened_at": 1746206898,
+        "recording_msid": "eb0c6bb7-51cb-4663-8cf3-f1e7504767d9",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 477,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "eb0c6bb7-51cb-4663-8cf3-f1e7504767d9",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "x club.",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "738591af-4345-4146-bdd7-29f716ad31d9"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "X CLUB.",
+                        "artist_mbid": "738591af-4345-4146-bdd7-29f716ad31d9",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 36425809675,
+                "caa_release_mbid": "c983aac8-55ae-42e9-be05-1dfd6488f241",
+                "recording_mbid": "083e6f60-30f4-4581-8ba1-b12e367bdce8",
+                "recording_name": "A Love [Underground Mix]",
+                "release_mbid": "c983aac8-55ae-42e9-be05-1dfd6488f241"
+            },
+            "track_name": "A Love (Underground Mix)"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746206898,
+        "listened_at": 1746206555,
+        "recording_msid": "f1a801df-26a5-4808-b641-f776f75298e5",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 341,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "f1a801df-26a5-4808-b641-f776f75298e5",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Temudo, Nørbak",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "1ab5c384-1f7e-4ac2-9855-77b1155ddf66",
+                    "f88b3638-95ee-4c51-b19d-78ceeb192084"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Temudo",
+                        "artist_mbid": "1ab5c384-1f7e-4ac2-9855-77b1155ddf66",
+                        "join_phrase": " & "
+                    },
+                    {
+                        "artist_credit_name": "Nørbak",
+                        "artist_mbid": "f88b3638-95ee-4c51-b19d-78ceeb192084",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 25804277559,
+                "caa_release_mbid": "06d27f2e-be24-4c67-82ce-784091fdb6c3",
+                "recording_mbid": "aef7195a-3d39-491d-b892-3f3f0860c474",
+                "recording_name": "Bearing Down",
+                "release_mbid": "06d27f2e-be24-4c67-82ce-784091fdb6c3"
+            },
+            "track_name": "Bearing Down (Original mix)"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746206555,
+        "listened_at": 1746206128,
+        "recording_msid": "b899f4af-2de2-4313-a797-14942306fabc",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 426,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "b899f4af-2de2-4313-a797-14942306fabc",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Bad Company UK",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "eba5d39f-8cb7-4d54-871d-297e5d7f1aad"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Bad Company UK",
+                        "artist_mbid": "eba5d39f-8cb7-4d54-871d-297e5d7f1aad",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 9566173188,
+                "caa_release_mbid": "750e5d57-7989-4e4e-9bde-7c838d9cab24",
+                "recording_mbid": "2235fa33-b3ee-4618-828e-877a00931f19",
+                "recording_name": "The Nine",
+                "release_mbid": "dc063df9-fb19-49cf-9722-52e8919342d5"
+            },
+            "track_name": "The Nine (Remastered)"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746206128,
+        "listened_at": 1746205778,
+        "recording_msid": "dc941606-4dae-4824-9e42-4b38fd46bd4d",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 348,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "dc941606-4dae-4824-9e42-4b38fd46bd4d",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Héctor Oaks",
+            "track_name": "Breaking Point (Héctor Oaks Emergency Punk Remix).wav"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746205778,
+        "listened_at": 1746205620,
+        "recording_msid": "00f5fd2b-449e-4667-a56a-b49bedcf8e87",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 157,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "00f5fd2b-449e-4667-a56a-b49bedcf8e87",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Blonde Redhead",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "6821bf3f-5d5b-4b0f-8fa4-79d2ab2d9219"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Blonde Redhead",
+                        "artist_mbid": "6821bf3f-5d5b-4b0f-8fa4-79d2ab2d9219",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 3375151076,
+                "caa_release_mbid": "d4bfe1a5-8b61-4862-a522-61e980dd6931",
+                "recording_mbid": "68bc71c6-23cf-42a4-b180-635a5c407d1c",
+                "recording_name": "For the Damaged Coda",
+                "release_mbid": "d4bfe1a5-8b61-4862-a522-61e980dd6931"
+            },
+            "track_name": "For the Damaged Coda"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746205620,
+        "listened_at": 1746205293,
+        "recording_msid": "484ecbe0-8beb-4bb3-bc13-6951df3e611c",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 325,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "484ecbe0-8beb-4bb3-bc13-6951df3e611c",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Jimmy Smith",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "4f8a0d9b-5777-40da-b29a-e9753d5ae693"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Jimmy Smith",
+                        "artist_mbid": "4f8a0d9b-5777-40da-b29a-e9753d5ae693",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 13513754314,
+                "caa_release_mbid": "110924d1-b172-4dd6-a049-1f2c847fdf4b",
+                "recording_mbid": "0fc61d20-b5d2-40ae-9d67-74dc4bb0ce40",
+                "recording_name": "Jumpin’ the Blues",
+                "release_mbid": "fa61f2e7-1685-4726-9b1d-b9d2232d0745"
+            },
+            "track_name": "Jumpin' the Blues"
+        },
+        "user_name": "ackrite187"
+    },
+    {
+        "inserted_at": 1746205293,
+        "listened_at": 1746204875,
+        "recording_msid": "f312bf98-59fe-4588-a562-d335659fc2e1",
+        "track_metadata": {
+            "additional_info": {
+                "duration": 416,
+                "media_player": "Tidal Hi-Fi",
+                "music_service": "https://listen.tidal.com",
+                "recording_msid": "f312bf98-59fe-4588-a562-d335659fc2e1",
+                "submission_client": "Tidal Hi-Fi"
+            },
+            "artist_name": "Mall Grab",
+            "mbid_mapping": {
+                "artist_mbids": [
+                    "845ddc8b-36ba-4d7b-9c6f-bd7623cd3cac"
+                ],
+                "artists": [
+                    {
+                        "artist_credit_name": "Mall Grab",
+                        "artist_mbid": "845ddc8b-36ba-4d7b-9c6f-bd7623cd3cac",
+                        "join_phrase": ""
+                    }
+                ],
+                "caa_id": 25069979761,
+                "caa_release_mbid": "3362754f-77e4-4da4-9b10-0115b63fc937",
+                "recording_mbid": "ae917c73-3275-4c91-ae7e-e4f3dd18a68c",
+                "recording_name": "Sheer Fuck-Offness",
+                "release_mbid": "3362754f-77e4-4da4-9b10-0115b63fc937"
+            },
+            "track_name": "Sheer Fuck - Offness"
+        },
+        "user_name": "ackrite187"
+    }
+]

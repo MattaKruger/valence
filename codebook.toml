@@ -1,0 +1,3 @@
+dictionaries = ["en_us", "en_gb"]
+
+words = ["codebook", "spotify", "brainz", "fft", "ndarray", "rolloff", "zcr", "listenbrainz"]

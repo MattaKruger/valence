@@ -1,0 +1,29 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# virtual .envs
+.venv/*
+.env
+
+logs/*
+
+# docker
+volumes/*
+# chromadb
+chroma/*
+src/agents/node_modules/*
+src/agents/data/*
+
+
+# files
+.my_interactive_cli_history
+
+
+#direnv
+.direnv
+src/data/*
